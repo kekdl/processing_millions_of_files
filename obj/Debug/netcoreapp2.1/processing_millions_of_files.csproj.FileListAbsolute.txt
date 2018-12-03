@@ -1,0 +1,11 @@
+/home/sasha/wargamming/processing_millions_of_files/bin/Debug/netcoreapp2.1/processing_millions_of_files.deps.json
+/home/sasha/wargamming/processing_millions_of_files/bin/Debug/netcoreapp2.1/processing_millions_of_files.runtimeconfig.json
+/home/sasha/wargamming/processing_millions_of_files/bin/Debug/netcoreapp2.1/processing_millions_of_files.runtimeconfig.dev.json
+/home/sasha/wargamming/processing_millions_of_files/bin/Debug/netcoreapp2.1/processing_millions_of_files.dll
+/home/sasha/wargamming/processing_millions_of_files/bin/Debug/netcoreapp2.1/processing_millions_of_files.pdb
+/home/sasha/wargamming/processing_millions_of_files/obj/Debug/netcoreapp2.1/processing_millions_of_files.csprojAssemblyReference.cache
+/home/sasha/wargamming/processing_millions_of_files/obj/Debug/netcoreapp2.1/processing_millions_of_files.csproj.CoreCompileInputs.cache
+/home/sasha/wargamming/processing_millions_of_files/obj/Debug/netcoreapp2.1/processing_millions_of_files.AssemblyInfoInputs.cache
+/home/sasha/wargamming/processing_millions_of_files/obj/Debug/netcoreapp2.1/processing_millions_of_files.AssemblyInfo.cs
+/home/sasha/wargamming/processing_millions_of_files/obj/Debug/netcoreapp2.1/processing_millions_of_files.dll
+/home/sasha/wargamming/processing_millions_of_files/obj/Debug/netcoreapp2.1/processing_millions_of_files.pdb
