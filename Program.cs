@@ -11,7 +11,7 @@ namespace processing_millions_of_files
         {
             int fileCount = 0;
             var sw = Stopwatch.StartNew();
-            var files = Directory.EnumerateFiles("/home/sasha/wargamming/1", "*.json", SearchOption.AllDirectories);
+            var files = Directory.EnumerateFiles("/home/vadim/wargamming/", "*.json", SearchOption.AllDirectories);
             Parallel.ForEach(files, (file) =>
             {
                // string json = File.ReadAllText(file);
